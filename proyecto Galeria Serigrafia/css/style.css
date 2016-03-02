@@ -1,0 +1,15 @@
+.header {
+	text-align: center;
+	width: 100%;
+	background-color: grey;
+}
+.remeras {
+	text-align: center;
+}
+.images {
+	align-content: center;
+}
+.caracteristicas {
+	text-align: left;
+	font-size: 13px;
+}
