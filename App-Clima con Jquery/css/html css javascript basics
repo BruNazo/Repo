@@ -1,0 +1,34 @@
+HTML (HyperText Markup Language)
+HTML is a markup language, used to give content structure and meaning.
+HTML es un lenguaje usado para describir los contenidos de documentos web.
+
+tags:
+	<head> En esta etiqueta se encierra informacion extra del documento, como ser los estilos o scripts internos o externos.
+
+	<title> En esta etiqueta se define el encabezado que se visualizara en el navegador. Es decir el nombre de la Pagina.
+	<hr> Linea Horizontal
+	<!-- esto comenta el texto emncerrado -->
+	<strong>  texto en negrita </strong>
+	<b> texto en negrita </b>
+	<table> <!-- esto es una tabla -->
+		<tr> <!-- estp es una fila -->
+			<th> </th> <!-- estp es una columna -->
+			<th> </th> <!-- estp es una columna -->
+		</tr>
+	</table>
+
+Atributos : keyword="value" 
+
+HTML5 Semantic Elements
+	Un elemento semantico es una etiqueta que define claramente su significado tanto al browser como al programador.
+
+	
+
+
+
+CSS (Cascading Stylesheet Specification) 
+
+
+
+
+

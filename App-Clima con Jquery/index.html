@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+		<title>
+		Proyecto Globant's Bootcamp-2015
+		</title>
+		<meta charset="utf-8">
+		<!-- Agrego los estilos  -->
+		<link rel="stylesheet" type="text/css" href="css/materialize.css">
+		<link rel="stylesheet" type="text/css" href="css/style.css">
+		<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+		<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.0.8/angular.min.js"></script>
+</head>
+<body>
+	<div class="container">
+		<div class="row valign-wrapper">
+		<div class=" col s3 l3 valign" >
+				Agregar:
+			</div>
+			<div class="col s4 l4" id="img">
+				<!-- campo para provincia -->
+				<input id="busquedaProvincia" type="search" required>
+			</div>
+			<div class="col s4 l4" >
+				<!-- campo para ciudad -->
+				<input id="busquedaCiudad" type="search" required>
+			</div>
+			<div class="col s1 l1">
+				<!-- boton de submit -->
+					<i class="material-icons hoverable" id="buscar">send</i>				
+			</div> 	
+		</div>
+		<div class="row" id="tarjetasLocalStorage">
+			
+		</div>
+    </div>
+
+	<!-- Agrego los Js -->
+
+	<script type="text/javascript" src="js/jquery.js"></script>
+	<script type="text/javascript" src="js/materialize.js"></script>
+	<script type="text/javascript" src="js/materialize.min.js"></script>
+	<script type="text/javascript" src="js/App-clima.js"></script>
+	<script type="text/javascript" src="js/eliminarCiudad.js"></script>
+
+	
+	
+</body>
+</html>
